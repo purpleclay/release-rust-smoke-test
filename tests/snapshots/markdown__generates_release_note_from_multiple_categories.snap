@@ -1,0 +1,38 @@
+---
+source: tests/markdown.rs
+expression: result
+---
+## HEAD - November 27, 2025
+
+[**`2`**](#breaking-changes) breaking changes • [**`2`**](#new-features) new features • [**`1`**](#bug-fixes) bug fixed
+
+## Breaking Changes
+- **`4cfa67f`** the course of true love never did run smooth
+
+  Lord, what fools these mortals be! The lunatic, the lover and the poet are of imagination all compact.
+- **`b0a136d`** now is the winter of our discontent
+
+  BREAKING CHANGE: made glorious summer by this sun of York.
+## New Features
+- **`8c8a505`** all the world's a stage
+
+  And all the men and women merely players. They have their exits and their entrances; and one man in his time plays many parts.
+- **`70204b7`** to be or not to be
+## Bug Fixes
+- **`fd0ff5c`** though she be but little, she is fierce
+
+  Some are born great, some achieve greatness, and some have greatness thrust upon them.
+## Performance Improvements
+- **`447b782`** brevity is the soul of wit
+- **`77a5c46`** swift as a shadow, short as any dream
+
+  So quick bright things come to confusion.
+## Dependency Updates
+
+| Commit | Update | Contributors |
+|--------|--------|--------------|
+| **`92d570b`** | all that glisters is not gold | |
+| **`7c555da`** | the better part of valor is discretion | @renovate[bot] |
+| **`3f719e1`** | though this be madness, yet there is method in it | @renovate[bot], @shakespeare |
+
+*Generated with [release-note](https://github.com/purpleclay/release-note)*

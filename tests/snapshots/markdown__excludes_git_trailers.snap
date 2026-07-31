@@ -1,0 +1,25 @@
+---
+source: tests/markdown.rs
+expression: result
+---
+## HEAD - November 27, 2025
+
+[**`2`**](#new-features) new features • [**`1`**](#bug-fixes) bug fixed
+
+## New Features
+- **`2c834bf`** the lady doth protest too much, methinks
+
+  Though this be madness, yet there is method in't.
+- **`51eafb2`** brevity is the soul of wit
+
+  To be, or not to be, that is the question:
+  - Whether 'tis nobler in the mind to suffer
+  - The slings and arrows of outrageous fortune
+
+  Or to take arms against a sea of troubles.
+## Bug Fixes
+- **`57b850b`** something is rotten in the state of Denmark
+
+  The rest is silence.
+
+*Generated with [release-note](https://github.com/purpleclay/release-note)*
